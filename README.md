@@ -91,6 +91,6 @@ Test cases:
 
 3. Unit tests: (https://github.com/mawmaw1/Test_3/blob/master/src/MyArrayListWithBugsTest.java)
 
-5. 	
+5 	
 In this case, I think a State Table would be more useful. The program does not really contain complex and different states, so I believe a simple table would be more useful for a quick overview in this case.
 If the program had more states that were interlinked, I think a state diagram would be of more use.
