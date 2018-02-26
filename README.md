@@ -78,7 +78,7 @@ Decision tables
 
 1.
 State diagram:
-
+![alt text](https://github.com/mawmaw1/Test_3/blob/master/img/IMG_2008.JPG)
 2.
 Test cases:
 
